@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá, me chamo Régis 👋
+
+Nos últimos 20 anos, tenho atuado com análise e desenvolvimento de sistemas na linguagem Delphi.
+<p>Busco migrar para a Java e SpringBoot e demais tecnologias inerentes ao ecosistema</p>
 
 <!--
 **regispinto/regispinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
