@@ -1,7 +1,9 @@
-### Olá, me chamo Régis 👋
+### Olá, me chamo Régis! 👋
 
-Nos últimos 20 anos tenho atuado com análise e desenvolvimento de sistemas na linguagem Delphi.
-<p>Atualmente busco migrar para Java, SpringBoot e demais tecnologias inerentes ao ecosistema</p>
+Nos últimos 22 anos, venho atuando com análise e desenvolvimento de sistemas em projetos de difentes segmentos de mercardo, utilizando Delphi 
+conectando bancos como Firebird, PostgreSQL, Oracle, MySQL e SQLite.
+
+<p>Versões Delphi 7, Delphi XE, Delphi XE2, Delphi XE5, Delphi XE8 e Delphi 10.4</p>
 
 <!--
 **regispinto/regispinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
