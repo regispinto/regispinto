@@ -1,9 +1,9 @@
-### Olá, me chamo Régis! 👋
+### Olá, meu nome é Régis! 👋
 
 Nos últimos 22 anos, venho atuando com análise e desenvolvimento de sistemas de projetos de difentes segmentos de mercardo, utilizando Delphi 
 conectando bancos como Firebird, PostgreSQL, Oracle, MySQL e SQLite.
 
-<p>Versões Delphi 7, Delphi XE, Delphi XE2, Delphi XE5, Delphi XE8 e Delphi 10.4</p>
+<p>Versões Delphi 7, Delphi XE, Delphi XE2, Delphi XE5, Delphi XE8, Delphi 10.4 e Delphi11</p>
 
 <!--
 **regispinto/regispinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
