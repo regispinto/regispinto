@@ -1,7 +1,7 @@
 ### Olá, meu nome é Régis! 👋
 
-Nos últimos 22 anos, venho atuando com análise e desenvolvimento de sistemas de projetos de difentes segmentos de mercardo, utilizando Delphi 
-conectando bancos como Firebird, PostgreSQL, Oracle, MySQL e SQLite.
+Nos últimos 22 anos, venho atuando com análise e desenvolvimento de sistemas em projetos de difentes segmentos de mercardo, desenvolvendo em Delphi  
+conectado a bancos de dados como Firebird, PostgreSQL, Oracle, MySQL e SQLite.
 
 <p>Versões Delphi 7, Delphi XE, Delphi XE2, Delphi XE5, Delphi XE8, Delphi 10.4 e Delphi11</p>
 
